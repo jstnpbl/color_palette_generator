@@ -1,7 +1,3 @@
-Here’s a **professional README** you can use for your **Color Palette Generator** project:
-
----
-
 # 🎨 Color Palette Generator
 
 A sleek and responsive Color Palette Generator built using HTML, CSS, and JavaScript. This app allows users to generate beautiful color palettes based on different color harmony rules (monochromatic, analogous, complementary, triadic, tetradic, or random), save their favorites, and manage their palette history — all in the browser.
