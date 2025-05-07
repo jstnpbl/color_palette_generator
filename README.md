@@ -47,8 +47,7 @@ A sleek and responsive Color Palette Generator built using HTML, CSS, and JavaSc
 
 ## 📸 Screenshots
 
-> You can add a screenshot here to showcase the interface
-> (e.g., `![Color Palette Generator Screenshot](screenshot.png)`)
+![image](https://github.com/user-attachments/assets/86a1c64b-b094-4ce5-81fc-41026ef19cb2)
 
 ## 📦 Installation & Usage
 
