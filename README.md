@@ -118,7 +118,11 @@ To ensure your app looks great on all devices and platforms, include all files f
 
 ## 🧠 Inspiration
 
-This project was created to explore color theory programmatically and provide a handy tool for developers and designers seeking quick, customizable palette ideas.
+This project began as a simple color palette generator built out of curiosity and a desire to experiment with color theory. One day, while feeling bored and looking for a creative challenge, I decided to revisit and level up my basic palette tool—this time, using only my phone and the Acode mobile code editor.
+
+Working entirely on a mobile device, I set out to transform a minimal app into a full-featured, accessible, and visually polished color palette generator. Every feature, from the advanced color harmony logic to the drag-and-drop UI and accessibility enhancements, was crafted and tested on-the-go, proving that powerful web apps can be built anywhere, even from the palm of your hand.
+
+This project is a testament to learning, improvisation, and the joy of building something useful—no matter where you are or what tools you have.
 
 ---
 
