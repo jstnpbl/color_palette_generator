@@ -67,9 +67,9 @@ A sleek, accessible, and responsive Color Palette Generator built with HTML, CSS
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-![Screenshot of Color Palette Generator UI](https://github.com/user-attachments/assets/86a1c64b-b094-4ce5-81fc-41026ef19cb2)
+![image](https://github.com/user-attachments/assets/f9783992-d88d-49f4-b287-596402bd65b7)
 
 ---
 
