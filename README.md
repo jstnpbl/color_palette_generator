@@ -6,38 +6,36 @@ A sleek, accessible, and responsive Color Palette Generator built with HTML, CSS
 
 ## 🚀 Features
 
-- **Palette Types**
-  - Random
-  - Monochromatic
-  - Analogous
-  - Complementary
-  - Triadic
-  - Tetradic
-
-- **Interactive Controls**
-  - Base color selector
-  - Palette size slider (3 to 10 colors)
-  - Instant palette preview and live UI demo
+- **Palette Generation**
+  - Generate palettes using color harmony rules: Random, Monochromatic, Analogous, Complementary, Triadic, Tetradic
+  - Choose a base color and palette size (3–10 colors)
+  - Live preview of palette applied to sample UI components
 
 - **Palette Management**
-  - Save generated palettes locally (browser storage)
-  - View, rename, and reuse saved palettes
-  - Clear palette history
+  - Save palettes to browser storage
+  - View, rename, and delete saved palettes
+  - Drag-and-drop to reorder colors in a palette
+  - Lock individual colors to keep them unchanged during regeneration
+
+- **Editing & Importing**
+  - Edit any color in a palette via a modal (HEX and HSL controls)
+  - Import palettes by pasting HEX codes or JSON arrays (supports comma, space, or newline separation)
 
 - **Export & Sharing**
   - Copy all palette colors in HEX, RGB, HSL, or CSS custom properties
   - Export palettes as CSS, JSON, or Tailwind config
-  - Download palette as PNG image
-  - Share palettes via unique URL
+  - Download palette as a PNG image
+  - Share palettes via unique URL (palette encoded in the link)
 
 - **Accessibility & UX**
-  - Modal dialogs (edit/import) are now fully centered and keyboard accessible
-  - Contrast checker for WCAG AA compliance
-  - Dark mode toggle
+  - Modal dialogs (edit/import) are fully centered and keyboard accessible
+  - Contrast checker for WCAG AA compliance between palette colors
+  - Dark mode toggle for comfortable viewing
   - Responsive, modern UI with smooth transitions
+  - All controls and actions are accessible via keyboard and screen readers
 
 - **Favicon & PWA Ready**
-  - Includes a full set of favicons and manifest for cross-device support
+  - Includes a full set of favicons and manifest for cross-device and PWA support
 
 ---
 
